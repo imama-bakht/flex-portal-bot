@@ -1,0 +1,10 @@
+flex_profile/
+flex_chrome/
+flex_saved*.json
+attendance_saved.json
+page_text.txt
+marks_text.txt
+run_log.txt
+*.png
+__pycache__/
+.env
